@@ -1,0 +1,54 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Yosakoi</title>
+  <subtitle>This is where I shared my IT knowledge.</subtitle>
+  <updated>2024-10-01T03:25:37+00:00</updated>
+  <author>
+    <name>Do Hoang Nam</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
+  <rights> © 2024 Do Hoang Nam </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>TITLE</title>
+    <link href="http://localhost:4000/posts/hello/" rel="alternate" type="text/html" title="TITLE" />
+    <published>2023-12-29T04:00:00+00:00</published>
+  
+    <updated>2023-12-29T04:00:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/hello/</id>
+    <content src="http://localhost:4000/posts/hello/" />
+    <author>
+      <name>Do Hoang Nam</name>
+    </author>
+
+  
+    
+    <category term="Animal" />
+    
+    <category term="Insect" />
+    
+  
+
+  <summary>Welcome
+Hello and welcome to my docs
+
+asdadsadadasdadsadasd
+tqweqqweqeq
+a</summary>
+
+  </entry>
+
+</feed>
+
+
