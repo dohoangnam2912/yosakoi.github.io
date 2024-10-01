@@ -9,39 +9,39 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Saigon
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Yosakoi # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: This is where I shared my IT knowledge ^^ # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  This is where I shared my IT knowledge.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://yosakoi.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: dohoangnam2912 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: dohoangnam2912 # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Do Hoang Nam
+  email: dohoangnam2912@dgmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://x.com/dohoangnam2912 # change to your Twitter homepage
+    - https://github.com/dohoangnam2912 # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://facebook.com/profile.php?id=100088163107010
     # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://scontent.fhan2-5.fna.fbcdn.net/v/t39.30808-6/461632581_502209082727858_8618224959395641709_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHyADqZw9_GJUE2Dn52M_EBi8eC1SrcJMmLx4LVKtwkyaVrR5h_ykVww0Qz1zdbNcZZZY5_ubjgticy4HI58vrN&_nc_ohc=toTYZKQel4wQ7kNvgHP6woW&_nc_ht=scontent.fhan2-5.fna&_nc_gid=AskYchkLi2ozHTbuLREXM9A&oh=00_AYDPamzr7EKNg_m3YK9oSvf9Kjra3nhyzoDhRv_9fFuIIQ&oe=670141C5
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
